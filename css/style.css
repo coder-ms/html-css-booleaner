@@ -1,0 +1,40 @@
+/*
+header img{
+    width: 100%;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+.centered h1{
+    top: 70%;
+    font-size: 35px;
+    transform: translate(-50%, -50%);
+    color: #000000;
+  }
+  .img_container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+*/
+.img_container {
+    position: relative;
+    text-align: center;
+    background-color: cornflowerblue;
+  } 
+  /*
+img{
+    width: 100%;
+    height: 200px;
+    background-color: cornflowerblue;
+} 
+*/
+  .centered h2{
+    left: 20%;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+  figure{
+    padding-left: 0;
+  }

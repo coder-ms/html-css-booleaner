@@ -38,3 +38,14 @@ img{
   figure{
     padding-left: 0;
   }
+
+  .colored{
+    text-align: left;
+    background-color: lightblue;
+  }
+
+  .colored-2{
+    text-align: left;
+    background-color: cornflowerblue;
+    color: white;
+  }

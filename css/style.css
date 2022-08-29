@@ -1,51 +1,49 @@
-/*
-header img{
-    width: 100%;
-    height: 100px;
+header {
+    background-image: url("img/pattern.png");
     background-color: cornflowerblue;
-}
-.centered h1{
-    top: 70%;
-    font-size: 35px;
-    transform: translate(-50%, -50%);
-    color: #000000;
   }
-  .img_container {
-    position: relative;
-    text-align: center;
+
+h1{
+    font-size: 50px;
+  }
+
+h2{
     color: white;
-  }
-*/
+    font-size: 25px;
+}
+.img{
+    height: 120px;
+    width: 33%;
+}
 .img_container {
     position: relative;
     text-align: center;
     background-color: cornflowerblue;
   } 
-  /*
-img{
-    width: 100%;
-    height: 200px;
-    background-color: cornflowerblue;
-} 
-*/
-  .centered h2{
+
+.centered h2{
     left: 20%;
     font-size: 30px;
     transform: translate(-50%, -50%);
     color: white;
   }
 
-  figure{
+figure{
     padding-left: 0;
   }
 
-  .colored{
+.colored{
     text-align: left;
     background-color: lightblue;
   }
 
-  .colored-2{
+.colored-2{
     text-align: left;
     background-color: cornflowerblue;
     color: white;
+  }
+
+footer {
+    background-image: url("img/pattern.png"), url("img/pattern.png");
+    background-color: white;
   }

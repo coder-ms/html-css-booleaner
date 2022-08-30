@@ -48,7 +48,9 @@ figure{
     background-color: cornflowerblue;
     color: white;
   }
-
+.table{
+  width: 100%;
+}
 #grigio{
     color: grey;
 }

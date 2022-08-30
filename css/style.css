@@ -1,3 +1,18 @@
+/*
+*{
+  font-size: 24px;
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+}
+*/
+
+header{
+  background-image: url("../img/pattern.png");
+  background-color:rgb(40, 160, 200);
+  width: 100%;
+}
+
 #logo{
     width: 170px;
     padding-top: 80px;
@@ -5,11 +20,6 @@
 
 }
 
-header{
-    background-image: url("../img/pattern.png");
-    background-color:rgb(40, 160, 200);
-    width: 100%;
-}
 h1{
     font-size: 50px;
   }
